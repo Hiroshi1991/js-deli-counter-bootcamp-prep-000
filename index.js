@@ -1,3 +1,3 @@
 function takeANumber (hiroDeli, name) {
-  hiroDeli.push('$name')
+  hiroDeli.push('${name}')
 }
