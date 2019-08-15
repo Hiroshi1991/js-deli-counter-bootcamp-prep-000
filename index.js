@@ -12,5 +12,4 @@ function nowServing(line) {
   } else {
     return "Currently serving" + line.shift();
   }
-  }
 }
