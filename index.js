@@ -16,7 +16,7 @@ function nowServing(line) {
 }
 
 function currentLine(line){
-  if!line.length) {
+  if(!line.length) {
     return "The Line is currently emplty.";
   }
   
