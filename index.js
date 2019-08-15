@@ -1,3 +1,3 @@
 function takeANumber (hiroDeli, name) {
-  hiroDeli
+  hiroDeli.push()
 }
