@@ -1,3 +1,3 @@
-function takeANumber (hiroDeli, name) {
+function takeANumber (line, name) {
   hiroDeli.push('${name}')
 }
