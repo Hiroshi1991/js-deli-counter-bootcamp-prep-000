@@ -1,3 +1,0 @@
-function takeANumber (hiroDeli, name) {
-  
-}
